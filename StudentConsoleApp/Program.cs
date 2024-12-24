@@ -11,10 +11,9 @@ namespace StudentConsoleApp
             group.addStudent(new Student("Ватаву Степан", 4.9)); //Выполнил Ватаву Степан
             group.addStudent(new Student("Боровых Виван", 4.7));
             group.addStudent(new Student("Иван Иванов", 3.0)); 
-            group.addStudent(new Student("Сабуро Арасака", 4.3));
+            group.addStudent(new Student("Сабуро Арасака", 4.3)); //Выполнил Ватаву Степан
             group.ShowAll();
         }
     }
-       
-    
+          
 }
